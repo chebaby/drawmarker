@@ -1,0 +1,23 @@
+{
+  "name": "drawmarker",
+  "license": "MIT",
+  "authors": [
+    "Nour-Eddine ECH-CHEBABY <ech.chebaby@gmail.com>"
+  ],
+  "description": "lightweight jquery plugin to work easily with google maps v3 markers.",
+  "homepage": "https://github.com/chebaby/drawmarker",
+  "keywords": [
+    "google-maps",
+    "markers",
+    "maps"
+  ],
+  "main": "src/jquery.drawmarker.js",
+  "dependencies": {
+    "jquery": "1"
+  },
+  "ignore": [
+    "npm-debug.log",
+    "bower_components",
+    "node_modules"
+  ]
+}
